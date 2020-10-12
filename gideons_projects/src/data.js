@@ -1,4 +1,11 @@
 const data = [
+
+    {
+      title: 'animated_lotus',
+      image:'/images/flower.png',
+      desc: 'I drew this with pure CSS code',
+      url: 'https://gscrawley.github.io/animated_lotus/lotus.html'
+    },
     {
       title: '10% Velcro',
       image: '/images/velcro.png',
