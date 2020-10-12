@@ -1,0 +1,24 @@
+.PageHeader {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    width:100%;
+    background-color: purple;
+    color: whitesmoke;
+   }
+   
+h1, a {
+    color: whitesmoke;
+}
+
+this.img {
+    width: 10%;
+    /* border-radius: ; */
+    /* justify-content: left; */
+}
+
+i {
+    font-size: xx-large;
+}
