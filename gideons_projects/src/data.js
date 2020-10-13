@@ -21,6 +21,13 @@ const data = [
       url: 'https://gscrawley.github.io/velcro/'
     },
     
+    {
+      title: 'myCity',
+      image: '/images/myCity.png',
+      desc: 'This is the MVP for this group project. I conceived the concept, researched the data and styled the front end.',
+      url: 'https://my-city.dev.my-city.club/'
+    },
+    
       {
         title: 'Card for Kaleb',
         image: '/images/cardfront.jpg',
