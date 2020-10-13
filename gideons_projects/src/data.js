@@ -6,6 +6,14 @@ const data = [
       desc: 'I drew this with pure CSS code',
       url: 'https://gscrawley.github.io/animated_lotus/lotus.html'
     },
+
+    {
+      title: 'Redux Tetris', 
+      image:'/images/game.jpg',
+      desc: 'A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication',
+      url:'https://tetris-auth.web.app/'
+    },
+  
     {
       title: '10% Velcro',
       image: '/images/velcro.png',
@@ -20,12 +28,6 @@ const data = [
         url: 'https://gscrawley.github.io/forKaleb/ ' 
       },  
   
-    {
-        title: 'Redux Tetris', 
-        image:'/images/game.jpg',
-        desc: 'A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication',
-        url:'https://tetris-auth.web.app/'
-      },
     
     {
         title: 'Stylin Stylesheet',
@@ -47,12 +49,14 @@ const data = [
         desc: 'Personal Website I designed for a friend, using HTML, CSS, and Bootstrap',
         url: 'https://gscrawley.github.io/Leah/'
       },
+
       {
         title: 'My Open Mic',
         image: '/images/MyOpenMic.png',
         desc: 'A site for amateur musicians to post videos of their performances; backend built in Python, front-end HTML5 and CSS.',
         url: 'https://myopenmic-gsc.herokuapp.com/'
       },
+      
       {
         title: 'Rock Star Trivia',
         image: '/images/rockstartrivia.png',
