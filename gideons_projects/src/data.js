@@ -4,7 +4,7 @@ const data = [
       title: 'animated_lotus',
       image:'/images/flower.png',
       desc: 'I drew this with pure CSS code',
-      url: 'https://gscrawley.github.io/animated_lotus/lotus.html'
+      url: 'https://gscrawley.github.io/biglotus/'
     },
 
     {
@@ -58,7 +58,7 @@ const data = [
       },
 
       {
-        title: 'My Open Mic',
+        title: 'Your Open Mic',
         image: '/images/MyOpenMic.png',
         desc: 'A site for amateur musicians to post videos of their performances; backend built in Python, front-end HTML5 and CSS.',
         url: 'https://myopenmic-gsc.herokuapp.com/'
