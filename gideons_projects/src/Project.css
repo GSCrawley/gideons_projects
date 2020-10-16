@@ -1,11 +1,11 @@
 .projects {
-    width: 320px;
+    /* width: 320px; */
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    /* grid-template-rows: auto;  */
+    grid-template-rows: auto; 
     /* padding-top: 1em; */
-    width:100%;
+    width:98%;
     padding-left: 2.5em;
     /* padding-right: 2.5em; */
     background-color: lightgoldenrodyellow;
@@ -14,7 +14,9 @@
 .ProjectLink {
     padding-top: 1em;
     padding-bottom: 1em;
+    
 }
+
 
 .fab {
     color:whitesmoke;
